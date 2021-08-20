@@ -23,7 +23,7 @@ Data Science Student @ University of Warsaw :school:
 <img align="left" alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
 <br>
 ## Work
-<img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />(https://www.hackerrank.com/matbarPL)
+[<img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/matbarPL)
 <br>
 ## Opearing System
 <img align="left" alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
